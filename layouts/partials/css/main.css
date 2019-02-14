@@ -745,8 +745,8 @@ kbd {
       font-family: 'Merriweather';
 }
 
-.wf-ubuntu-mono-n4-active div.main .content .markdown code,
-.wf-ubuntu-mono-n4-active div.main .content .markdown pre {
+.wf-ubuntumono-n4-active div.main .content .markdown code,
+.wf-ubuntumono-n4-active div.main .content .markdown pre {
       font-family: 'Ubuntu Mono';
 }
 {{ end  }}
